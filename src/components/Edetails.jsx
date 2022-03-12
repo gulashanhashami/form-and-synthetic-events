@@ -14,7 +14,6 @@ export const Edetails=()=>{
           setShowdata(res.data);
       });
   }
-  //console.log(showdata);
 
 
     return (
