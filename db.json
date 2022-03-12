@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "asdasd",
+      "age": "23",
+      "address": "asertcvsa",
+      "departments": "non",
+      "salary": "2345",
+      "marital_status": "true",
+      "id": 1
+    },
+    {
+      "name": "asdasd",
+      "age": "23",
+      "address": "asertcv",
+      "departments": "it",
+      "salary": "23454",
+      "marital_status": "true",
+      "id": 2
+    },
+    {
+      "name": "asqw",
+      "age": "231",
+      "address": "asertcv",
+      "departments": "non",
+      "salary": "234556",
+      "id": 3
+    },
+    {
+      "name": "asdasd",
+      "age": "23",
+      "departments": "non",
+      "address": "asertcv",
+      "salary": "2345",
+      "marital_status": "true",
+      "id": 4
+    }
+  ]
+}
