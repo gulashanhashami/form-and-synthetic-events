@@ -1,39 +1,76 @@
 {
   "data": [
     {
-      "name": "asdasd",
-      "age": "23",
-      "address": "asertcvsa",
-      "departments": "non",
-      "salary": "2345",
-      "marital_status": "true",
+      "Name": "werf",
+      "age": "21",
+      "address": "aswq",
+      "departments": "Non_IT",
+      "salary": "12345",
+      "marital_status": "false",
       "id": 1
     },
     {
-      "name": "asdasd",
-      "age": "23",
-      "address": "asertcv",
-      "departments": "it",
-      "salary": "23454",
+      "Name": "jgffdd",
+      "age": "123",
+      "address": "asdff",
+      "departments": "IT",
+      "salary": "12344",
       "marital_status": "true",
       "id": 2
     },
     {
-      "name": "asqw",
-      "age": "231",
+      "Name": "asdf",
+      "age": "23",
       "address": "asertcv",
-      "departments": "non",
-      "salary": "234556",
+      "departments": "IT",
+      "salary": "2347",
+      "marital_status": "false",
       "id": 3
     },
     {
-      "name": "asdasd",
-      "age": "23",
-      "departments": "non",
+      "Name": "qwe",
+      "age": "27",
       "address": "asertcv",
-      "salary": "2345",
+      "departments": "Non_IT",
+      "salary": "2335",
       "marital_status": "true",
       "id": 4
+    },
+    {
+      "Name": "qwe",
+      "age": "23",
+      "address": "asertcv",
+      "departments": "IT",
+      "salary": "1234",
+      "marital_status": "false",
+      "id": 5
+    },
+    {
+      "Name": "Shravya",
+      "age": "22",
+      "address": "Delhi",
+      "departments": "Non_IT",
+      "salary": "23457665",
+      "marital_status": "false",
+      "id": 6
+    },
+    {
+      "Name": "asdf",
+      "age": "23",
+      "address": "asertcv",
+      "departments": "Non_IT",
+      "salary": "12341223455",
+      "marital_status": "false",
+      "id": 7
+    },
+    {
+      "Name": "kjjh",
+      "age": "21",
+      "address": "asertcvuyt",
+      "departments": "IT",
+      "salary": "2345876",
+      "marital_status": "true",
+      "id": 8
     }
   ]
 }

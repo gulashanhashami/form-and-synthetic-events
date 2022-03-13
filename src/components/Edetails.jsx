@@ -31,7 +31,7 @@ export const Edetails=()=>{
                </thead>
                <tbody>
                  {showdata.map(({
-                  name,
+                  Name,
                   age,
                   address,
                   departments,
@@ -41,7 +41,7 @@ export const Edetails=()=>{
                  })=>{
 
                   return <tr key={id}>
-                  <td>{name}</td>
+                  <td>{Name}</td>
                   <td>{age}</td>
                   <td>{address}</td>
                   <td>{departments}</td>
